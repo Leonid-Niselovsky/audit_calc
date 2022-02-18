@@ -1,0 +1,58 @@
+.list_form {
+  display: flex;
+  flex-direction: column;
+  max-width: 820px;
+  height: 428px;
+  margin: 0 auto;
+  border: 1px solid black;
+  list-style: none;
+  padding: 0;
+}
+
+.worms {
+  
+}
+
+.list_1 {
+  /* width: 820px; */
+  height: 128px;
+  border: 1px solid blue;
+  padding: 0 24px;
+}
+
+.list_2 {
+  /* width: 820px; */
+  height: 126px;
+  border: 1px solid red;
+  padding: 0 24px;
+}
+
+.list_3 {
+  /* width: 820px; */
+  display: flex;
+  height: 135px;
+  border: 1px solid orange;
+}
+
+.list_4 {
+  /* width: 820px; */
+  height: 39px;
+  padding: 0 24px;
+  border: 1px solid green;
+}
+
+.header_text {
+  font-weight: bold;
+  color: rgb(5, 25, 69);
+}
+
+.div_list3 {
+  width: 410px;
+  height: 135px;
+  /* padding: 12px 24px; */
+  border: 1px solid black;
+}
+
+.p1_li3 {
+  display: inline;
+}
