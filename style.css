@@ -9,8 +9,9 @@
   padding: 0;
 }
 
-.worms {
-  
+.list_4 {
+  display: flex;
+  justify-content: space-between;
 }
 
 .list_1 {
@@ -55,4 +56,8 @@
 
 .p1_li3 {
   display: inline;
+}
+
+#exit-sum {
+  font-size: 20px;
 }
